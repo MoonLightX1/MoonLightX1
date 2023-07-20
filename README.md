@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **King Apes, Kami AI, Moon RPG, Moon Battles**
 
-- 🌱 I’m currently learning **C# & C++ & Python**
+- 🌱 I’m currently learning **Advanced Java stuff**
 
 - 📫 How to reach me **nickolas.bogert.ii@gmail.com**
 
