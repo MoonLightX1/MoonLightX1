@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MoonLightX1</h1>
 <h3 align="center">A senior dev (Indian).</h3>
 
-- 🔭 I’m currently working on **King Apes, Kami AI, Moon RPG, Moon Battles**
+- 🔭 I’m currently working on **AI**
 
-- 🌱 I’m currently learning **Advanced Java stuff**
+- 🌱 I’m currently learning **Being advanced at python**
 
 - 📫 How to reach me **nickolas.bogert.ii@gmail.com**
 
