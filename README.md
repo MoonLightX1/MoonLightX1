@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MoonLightX1</h1>
-<h3 align="center">A senior dev (Indian).</h3>
+<h3 align="center">A dev (Indian).</h3>
 
 - 🔭 I’m currently working on **AI**
 
