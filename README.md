@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm MoonLightX1</h1>
 <h3 align="center">A dev (Indian).</h3>
 
-- 🔭 I’m currently working on **AI**
+- 🔭 I’m currently working on **Games**
 
-- 🌱 I’m currently learning **Being advanced at python**
+- 🌱 I’m currently learning **How to be better with games**
 
 - 📫 How to reach me **nickolas.bogert.ii@gmail.com**
-
-- ⚡ Fun fact **My voice is a 2 year old inside a old human body.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
